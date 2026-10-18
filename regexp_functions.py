@@ -29,3 +29,21 @@ def translate_to_salty(text: str) -> str:
         repl=add_salt,
         string=text,
     )
+
+
+def get_chords(song_path: str) -> set[str]:
+    """
+    Find all guitar chords in a song file with lyrics and chords.
+
+    Arguments:
+    song_path: str - path to the song file
+
+    Returns set[str] - unique chords found in the song.
+    """
+    with open(song_path, "r") as song_file:
+        text = song_file.read()
+    chords = re.findall(
+        pattern=r"(?<!\w)[A-H][#b]?(?:m|maj|min|dim|aug|sus)?\d*(?:/[A-H][#b]?)?(?!\w)",
+        string=text,
+    )
+    return set(chords)
