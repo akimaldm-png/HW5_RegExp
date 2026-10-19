@@ -59,3 +59,11 @@
 
 
 Удачи! ✨✨
+
+
+## Музыка для проверки
+
+- [ASAP Rocky - I Smoked Away My Brain](https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6?si=5172e9a394884053)
+- [sombr - 12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W?si=9fce3dd385894e07)
+- [backfromparadise, PIXI - LAGACY (slowed down)](https://open.spotify.com/track/0yFLCs151QFUOufMSti5Xo?si=c085c987e9aa46b5)
+- [Lana Del Rey - Ultraviolence](https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS?si=0bc7eb0d1b6b4e2e)
